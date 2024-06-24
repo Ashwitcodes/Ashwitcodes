@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashwitcodes
-- 👀 I’m interested in to taking chalenges and solving problems easily 
+- 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning DSA with Java
 - 😄 Hobby: Playing Guitar
 
